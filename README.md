@@ -13,5 +13,3 @@
     <a href="https://munkhtulga0826.github.io/lab7-4/">bod4<a>
 </body>
 </html>
-</body>
-</html>
